@@ -1,4 +1,3 @@
-
 # Game 1: 
 ### Setup
 Top player is standing and places one leg near the butt of bottom., Bottom player gets into their choice of De La Riva or Reversed De La Riva.  
