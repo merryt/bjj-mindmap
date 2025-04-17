@@ -1,16 +1,16 @@
 # Game 1: 
 ### Setup
-Top player is standing and places one leg near the butt of bottom., Bottom player gets into their choice of De La Riva or Reversed De La Riva.  
+Top player is standing and places one leg near the butt of bottom., Bottom player gets into their choice of [[De la riva guard|De La Riva]] or [[Reverse de la riva guard|Reverse De La Riva]].  
 ### Top
 - Try to disengage (this is normally done through freeing leg)
 - Can not use hands on ground or to touch partner
 ### Bottom
 - Try to establish 4 points of contact and hold for 4 seconds
-- Feel free to switch between [[Reverse de la riva guard]], [[De la riva guard]], [[Single Leg X]], [[K Guard]], or any other [[Open Guard]]s where you could have 4 points of contact
+- Feel free to switch between [[Reverse de la riva guard|Reverse De La Riva]], [[De la riva guard|De La Riva]], [[Single Leg X]], [[K Guard]], or any other [[Open Guard]]s where you could have 4 points of contact
 
 # Game 2
 ### Setup
-Top player is standing and places one leg near the butt of bottom., Bottom player gets into their choice of De La Riva or Reversed De La Riva.  
+Top player is standing and places one leg near the butt of bottom., Bottom player gets into their choice of [[[[De la riva guard|De la riva guard|De La Riva]]]] or [[Reverse de la riva guard|Reverse De La Riva]].  
 ### Top 
 - Try to disengage 
 - Can not use hands on ground or to touch partner
@@ -22,7 +22,7 @@ Top player is standing and places one leg near the butt of bottom., Bottom playe
 
 # Game 3 
 ### Setup
-Top player is standing and places one leg near the butt of bottom., Bottom player gets into their choice of De La Riva or Reversed De La Riva.  
+Top player is standing and places one leg near the butt of bottom., Bottom player gets into their choice of [[De la riva guard|De La Riva]] or [[Reverse de la riva guard|Reverse De La Riva]].  
 ### Top
 - Try to outside pass and get chest to chest
 
