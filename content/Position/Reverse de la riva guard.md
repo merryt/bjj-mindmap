@@ -3,15 +3,11 @@ Video: https://www.youtube.com/watch?v=KDg3f4lIxro
 ---
 Reverse de la riva is where the bottom player has 1 leg between the legs of the top player and their foot then goes out behind their knee on the same side as their other leg. 
 
-
 ### Levels
 There are diffferent levels to RDLR
 1. Top players non-trapped knee is on the ground
 2. Top players non-trapped leg is based wide
 3. Top players is standing
-
-
-
 
 # Bottom
 Goals from this position
@@ -29,11 +25,14 @@ At level 1 (knee on ground) try to put your outside leg under their arm pit for 
 - If I can grab far side sleeve and collar I can pin the hand to the ground and press them up to sweep.
 - [[Kiss of the Dragon]] (From level 1)
 - Spin through to [[x guard]] (from level 2)
+- There are a set of unbalancing sweeps from here that can all be summarized by 2 blocking one pushing.  (from level 3)
 
 # Top
+Goals while standing
+- Strip grips 
+- Do not let bottom player get behind you shoulder line or between you legs
+- [[knee cut]]
 
-
-
-
-# Links
-Video - https://www.youtube.com/watch?v=LKJ3MqFOj24
+# Videos
+- https://www.youtube.com/watch?v=LKJ3MqFOj24
+- https://www.youtube.com/watch?v=KDg3f4lIxro

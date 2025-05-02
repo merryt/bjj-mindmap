@@ -10,7 +10,7 @@ Top player is standing and places one leg near the butt of bottom., Bottom playe
 
 # Game 2
 ### Setup
-Top player is standing and places one leg near the butt of bottom., Bottom player gets into their choice of [[[[De la riva guard|De la riva guard|De La Riva]]]] or [[Reverse de la riva guard|Reverse De La Riva]].  
+Top player is standing and places one leg near the butt of bottom., Bottom player gets into their choice of [[[[De la riva guard|De la riva guard|De La Riva]] or [[Reverse de la riva guard|Reverse De La Riva]].  
 ### Top 
 - Try to disengage 
 - Can not use hands on ground or to touch partner
@@ -28,6 +28,10 @@ Top player is standing and places one leg near the butt of bottom., Bottom playe
 
 ### Bottom
 - Sweep, and don't get passed
+- (optional) Tips:
+	- chain attacks (try to tripod sweep, then shin to shin push, then shin to shin pull). 
+	- Try to keep 4 points of contact
+	- If I can get my opponents hands on the ground then I am in a good spot. (this normally means I can invert and get under legs, or when they go to stand up again I can swing them the other way)
 
 
 # Game 4
@@ -35,7 +39,7 @@ Top player is standing and places one leg near the butt of bottom., Bottom playe
 Start from [[Z Guard]] or [[Half Butterfly Guard]] (bottoms choice), try to avoid getting into [[Half Guard]]
 
 ### Top  
-- Try passing, chest to chest is okay,
+- Try passing, inside is okay for this one. 
 
 ### Bottom 
 - Sweep, and don't get passed

@@ -2,7 +2,7 @@
 STARTING_POSITION:
   - "[[Half Guard#Bottom]]"
 ENDING_POSITION:
-  - "[[Side control]]"
+  - "[[BJJ/Position/Side control]]"
   - "[[Back Control]]"
 ---
 

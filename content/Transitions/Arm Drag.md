@@ -23,12 +23,15 @@ Steps:
 # From Butterfly (and half butterfly)
 In half butterfly you can only arm drag the side you have the hook in from.
 - Get an outside grip on a same side wrist
-- Press that wrist toward their waste
-- shoot your other hand into the cap between their elbow and lat, grab the back of their elbow
+- Press that wrist toward their waist
+- shoot your other hand into the gap between their elbow and lat, grab the back of their elbow
 - Fall backwards pulling their arm across your body (the goal is for them to put this pulled hand to the ground across your body)
 	- While this is happening it can be helpful to free the hook on the same side you pulled from and get it to the outside of their body
 - Use the hand on the same side as you pulled from to reach around their back and grab their belt
-- Keep your hook (or leg that was between their legs) in place, but start climbing up their back to establish [[Back Control]]
+- Keep your hook (or leg that was between their legs) in place,
+- Here I have two options: 
+	1. If they stay low,  start climbing up their back to establish [[Back Control]]
+	2. If they raise their posture up I can get a scoop grip, roll my hips under them, and do a modified [[John Wayne Sweep]]. I want to make sure I am pinning their inside arm against my body. 
 
 
 # From standing

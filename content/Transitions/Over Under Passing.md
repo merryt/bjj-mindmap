@@ -3,7 +3,7 @@ STARTING_POSITION:
   - "[[Open Guard]]"
 ENDING_POSITION:
   - "[[Closed Guard]]"
-  - "[[Side control]]"
+  - "[[BJJ/Position/Side control]]"
   - "[[Top Lock]]"
 ---
 This position has 4 parts 
@@ -19,7 +19,7 @@ This position has 4 parts
 2. At this point the key is breaking frames and not losing balance. If they are framing well and their "under" side is high I can always adjust my position and swing to to the underside taking side control or back. If they are framing iffy against my shoulders I can rock my shoulder side to side while pulling my self closer with my under side.
 3. Once my head is across the center line, lock it in place by putting my weight through my shoulder into their belly. Do not put my head to the ground unless they are bridging, put weight into their stomach through my shoulder. To progress past this position I need to progress past their near side leg. To do this an option is walking forward while pressing down and back on the pant leg that I am holding. 
 4. Once I have cleared the knee line I need to clear all remaining hooks. I like to sprawl down pressing my hips into the ground. then wind shild wiper-ing over their leg.
-If everything goes correctly we and in [[Side control]]
+If everything goes correctly we and in [[BJJ/Position/Side control]]
 
 
 # Defending

@@ -20,6 +20,7 @@
 		- This process should rotate my body so I am sideways compared to my partner. I am now in [[K Guard]]
 - [[Climb to the back]]
 - [[Flower Sweep]]
+- [[Closed Guard to Spider]]
 
 
 

@@ -27,6 +27,6 @@ Make sure my thumb is not on the same side as my fingers. If my thumb and finger
 
 If I am realizing they are gripping with their thumbs up I can pop their hands up and shoot inside. 
 
-# [[Single Leg]]
-
-# [[Kata guruma]]
+# Takedowns
+- [[Single Leg]]
+-  [[Kata guruma]]

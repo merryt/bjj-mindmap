@@ -1,6 +1,6 @@
 ---
 STARTING_POSITION:
-  - "[[Side control]]"
+  - "[[BJJ/Position/Side control]]"
 ENDING_POSITION:
   - "[[Back Control]]"
 ---

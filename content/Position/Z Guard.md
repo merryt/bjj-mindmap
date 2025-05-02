@@ -14,7 +14,7 @@ If their knee shield is low
 - Place my knee shield sided arm in front of the shin with my palm on the ground
 - With my non-knee shield side arm grab the ankle of the knee shield. 
 - Keep my weight on the knee shield
-- Rotate my body away from their legs and fall into side control [[Side control]].
+- Rotate my body away from their legs and fall into side control [[BJJ/Position/Side control]].
 
 If their knee is perfect
 - Shoot my arm behind their knee shield and in front of their base leg. 

@@ -11,3 +11,8 @@ This position exists where the bottom player has a leg around the outside the sa
 	- lift hips so my weight is on my shoulders
 	- release grip on nearside 
 	- get nearside leg around the knee line so the instep is touching the upper thigh. The nearside knee should be pressing against the floor
+# Top
+- Transition to [[Headquarters]]
+	- undo the outside hook
+	- trap the inside leg between my knees
+	- sit back

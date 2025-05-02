@@ -15,7 +15,7 @@ Falling to the "good" side. The "attacking" arm is in a stronger position if its
 
 
 ##### Legs
-- **Body Triangle** - If the person in the back can get one of their legs across the belly, and place it behind their knee to squeeze the core that is a good spot
+- **Body Triangle** - If the person in the back can get one of their legs across the belly, and place it behind their knee to squeeze the core that is a good spot. 
 - **Ankle Lock** - The person in the back needs hooks in to maintain control, but needs to be careful not to hook to low, if the hooks of the back person are ever too low the front person can squeeze their legs together and get a submission there
 - **Hooks spreading legs** - The person in the advantaged position can place the instep of their feet on the inside of the thighs of the disadvantaged person. This gives them partial control over the legs and allows them to grip pretty well to stop escape. 
 - **High feet** - not locking feet, but having them high on the person is a solid choice. 

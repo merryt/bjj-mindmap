@@ -1,6 +1,6 @@
 ---
 STARTING_POSITION:
-  - "[[Side control]]"
+  - "[[BJJ/Position/Side control]]"
 ---
 - With arm that is higher up their body get a cross collar choke with my palm facing their body
 - Move my elbow to the ground
