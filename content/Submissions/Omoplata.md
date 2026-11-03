@@ -22,3 +22,11 @@ If they are defending in the Triangle by hiding their arm there is a chance I ca
 	2. Stop them from freeing their arm
 To accomplish these goals I want to grab some pant and pull my self toward them, once I am close enough that I can use my feet to help rotate around I want to throw the same arm that was on their pants over their back and get as close to their body as possible. Here I want to S-sit and push my weight over their body. Their arm should be in my lap bent at a bad angle and cause them to tap. If it doesn't cry and take the back. We'll get um next time.
 
+#### From side control
+- Sit on their peck keeping a slightly more upright posture then is normal
+- Backstep with the leg that was closer to their legs/hips.
+- use your arm that was closer to their head for base
+- use your arm that was closer to their hips to move their leg between your legs
+- pinch their arm between your legs
+- rotates your legs away from their hips and get a little height pulling their body up to rotate them till they are facing the ground.
+- Finish the omaplata (normal rules apply, break posture if needed, hold belt so they don't roll, etc) 

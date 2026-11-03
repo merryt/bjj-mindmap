@@ -26,7 +26,7 @@ Next goal is to stretch their leg out across the ground. Try to put my hand behi
 Pressing my chest into their hips as my center of gravity swing my legs around behind them and take the side or back
 
 ##### Getting to mount
-Work your way into a cross face (hand under their head, shoulder to head). Make sure to drop my hip onto their leg and pin their upper leg that is closest to my cross face (they should be very twisted). Spread their legs apart, this may require me to dig my foot under their knee . Their spine should be twisted. in one motion pop your legs into mount, their body should recoil into a flat position as you release all the tention allowing you to get into mount.
+Work your way into a cross face (hand under their head, shoulder to head). Make sure to drop my hip onto their leg and pin their upper leg that is closest to my cross face (they should be very twisted). Spread their legs apart, this may require me to dig my foot under their knee . Their spine should be twisted. in one motion pop your legs into mount, their body should recoil into a flat position as you release all the tension allowing you to get into mount.
 
 # Alternative paths
 

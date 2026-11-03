@@ -2,8 +2,8 @@
 STARTING_POSITION:
   - "[[Butterfly Guard]]"
 ENDING_POSITION:
-  - "[[BJJ/Position/Side control]]"
-VIDEO: 
+  - "[[Side control]]"
+VIDEO:
 ---
 
 # Bottom

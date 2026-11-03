@@ -1,6 +1,6 @@
 ---
 STARTING_POSITION:
-  - "[[Mount#Top]]"
+  - "[[Hobbies/BJJ/Position/Mount#Top]]"
 VIDEO: https://www.youtube.com/watch?v=XMN6eFY0u-g
 ---
 # From Mount

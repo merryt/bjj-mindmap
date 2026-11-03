@@ -34,7 +34,7 @@ Try to keep an inside elbow to stop them from advancing to high mount.
 - [[Basic mount escape]]
 - [[knee and elbow escape from mount]]
 ### Low mount pressed forward
-- Hip raise with a kipping - the one option I have if they aren't heavy is to raise their hips with my arms and legs, then drop my legs between their legs and go to [[Butterfly Guard]] or [[x guard]].
+- Hip raise with a kipping - the one option I have if they aren't heavy is to raise their hips with my arms and legs, then drop my legs between their legs and go to [[Butterfly Guard]] or [[X Guard]].
 - Open knee escape - I can rotate my hips past the point of stacked and bridge. From here I can push and shrimp and sneak out.
 - [[Bridge and roll aka ompa]] -  (this works best when their feet and knees are narrow) 
 

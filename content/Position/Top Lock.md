@@ -1,3 +1,7 @@
+---
+aliases:
+  - Dimond
+---
 After the ankles are locked behind the back feel good, you are in a good position. 
 
 The options I have learned from this position are:
@@ -8,7 +12,7 @@ The options I have learned from this position are:
 The differentiation between which position I should be going for seems to be mostly determined by their inside arm. If they are hiding this arm under my butt, or against their inner thigh then its time to go [[Omoplata]]. If not, its time to start prying it across my body. The way I learned to do this was by bridging my hips and getting the arm at or above my hip level, then dropping my hips as a throw the arm across. If they are strong or sneaky they will stop the arm from going fully across my body. They could do this with pure strength or with using their other arm to stop the progress. If that is the case I can do a [[Arm Bar]]. If they didn't stop the motion then its time to do a [[Triangle Choke]]
 
 
-# From [[Mount]]
+# From [[Hobbies/BJJ/Position/Mount]]
 - If I am 1 arm issolated and they are pressing against my hip holding an elbow tight against their side this is my time to try this
 - Go use the leg that is getting pressed to go around the arm doing the pressing
 - Place that ankle through their head and around to the other side of their body

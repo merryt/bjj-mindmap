@@ -1,6 +1,6 @@
 ---
 STARTING_POSITION:
-  - "[[Mount#Bottom]]"
+  - "[[Hobbies/BJJ/Position/Mount#Bottom]]"
 ---
 
 - straighten a leg and press it outward against a foot

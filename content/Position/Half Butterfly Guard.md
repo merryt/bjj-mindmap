@@ -8,7 +8,7 @@ If I am spacing square into my partner I need to pivot my body. I want my leg wi
 
 General goals for bottom player
 - Off balance the top player and get a hand on the mat across their body. (this opens up an [[Arm Drag#From Butterfly (and half butterfly)|Arm Bar from Half Butterfly]])
-- [[Butterfly sweep]]
+- [[Butterfly sweep single arm]]
 - Knee should be pointing up or toward my opponent, a knee smashed to the ground isn't useful.
 - Protect against near side underhooks
 - Get an opposite collar side grip, scoop the leg on the side of the grip, control the leg and get sideways. 

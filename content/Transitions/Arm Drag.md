@@ -29,9 +29,10 @@ In half butterfly you can only arm drag the side you have the hook in from.
 	- While this is happening it can be helpful to free the hook on the same side you pulled from and get it to the outside of their body
 - Use the hand on the same side as you pulled from to reach around their back and grab their belt
 - Keep your hook (or leg that was between their legs) in place,
-- Here I have two options: 
+- Here I have three options: 
 	1. If they stay low,  start climbing up their back to establish [[Back Control]]
 	2. If they raise their posture up I can get a scoop grip, roll my hips under them, and do a modified [[John Wayne Sweep]]. I want to make sure I am pinning their inside arm against my body. 
+	3. If they flag out with their foot stoping the scoop grip I can invert and sweep them forward. (the position goes through xguard but I am not totally sure about it)
 
 
 # From standing

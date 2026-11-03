@@ -1,5 +1,5 @@
 # Attacking
-##### Arms aka Grips (the seatbelt):
+### Arms aka Grips (the seatbelt):
 - The person in the advantaged positions should always keep their hands clasped in a position where if the disadvantaged person goes two-on-one with the advantaged clasped hand then the hand that is free should be the upper/attacking hand. This means the attacking hand/arm does not grab onto the lower hand, but the lower hand grabs onto the upper. 
 - Elbows should always be pressed against the body and arms pulled in tightly. There should be no space between my arms and their body.
 - Grip fighting from advantage:
@@ -14,7 +14,7 @@
 Falling to the "good" side. The "attacking" arm is in a stronger position if its on top
 
 
-##### Legs
+### Legs
 - **Body Triangle** - If the person in the back can get one of their legs across the belly, and place it behind their knee to squeeze the core that is a good spot. 
 - **Ankle Lock** - The person in the back needs hooks in to maintain control, but needs to be careful not to hook to low, if the hooks of the back person are ever too low the front person can squeeze their legs together and get a submission there
 - **Hooks spreading legs** - The person in the advantaged position can place the instep of their feet on the inside of the thighs of the disadvantaged person. This gives them partial control over the legs and allows them to grip pretty well to stop escape. 
@@ -23,7 +23,7 @@ Falling to the "good" side. The "attacking" arm is in a stronger position if its
 - **Only one hook** - If the person in defensive position gets one hook out, but the leg is still under them, keep the foot away! Try to lever up your knee so it scoots them back to the center. Roll to the other side where you can reclaim both hooks.
 
 
-##### Head
+### Head
 - While attacking I want my head to be squeezing their head into my attacking arm. My head should constantly be breaking their alignment.
 
 Submissions I know
@@ -31,8 +31,10 @@ Submissions I know
 - [[Zipper]]
 - [[Bow and arrow]]
 
-Reclaiming back control when I am losing it:
-If the disadvantaged person gets their back the advantaged person will default to reclaim back control by trying to get under them to get under them. This is counter intuitive. Instead the advantaged person should attempt to roll them onto their side or by getting on top of them and pulling the seatbelt around. From here they can hook a leg around a leg and roll back into back control. 
+### Reclaiming back control :
+- If the hook is passed -> Roll to the other side
+- If the leg is passed -> keep chest to back and roll to the other side. (don't try to keep levering underneath the front player, instead hug tight at the chest level but use legs to rotate)
+- If the dis advantaged player has their back to the ground -> Gift wrap from side control
 
 
 # Defending
@@ -53,7 +55,12 @@ Easiest escapes
 	- Frame
 	- Escape
 	
-
+### Submissions
+- Arm bar - If their attacking elbow gets over my shoulder I can arm bar them by pulling that arm down
+- Ankle lock - If they cross their legs I can pop their knee by crossing/twisting my leg over their knee. 
 
 Throwing off the advantaged persons alignment. I can use my head to press into their head and hopefully force their body into a less then optimal position. 
 
+
+# Tutorials
+- [80/20 straight jacket system from reddit](https://www.reddit.com/r/bjj/comments/111az3j/8020_of_john_danahers_straightjacket_system/)

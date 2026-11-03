@@ -14,13 +14,20 @@ If their knee shield is low
 - Place my knee shield sided arm in front of the shin with my palm on the ground
 - With my non-knee shield side arm grab the ankle of the knee shield. 
 - Keep my weight on the knee shield
-- Rotate my body away from their legs and fall into side control [[BJJ/Position/Side control]].
+- Rotate my body away from their legs and fall into side control [[Side control]].
 
-If their knee is perfect
+### If their knee is perfect
+##### Transition to half guard
 - Shoot my arm behind their knee shield and in front of their base leg. 
 - Twist and flatten their knee shield. 
 - Fall forward so my belly/chest is over them. 
 - This should result in [[Half Guard]]
+##### Transition to leg drag
+- Lean into knee shield
+- Get onto feet
+- Lean body weight across their knees
+- walk feet to other side. 
+- Fall to the ground in [[Leg Drag#Pin leg to ground]] position
 
 If their ankles are locked
 - Sprawl to unlock the ankles.

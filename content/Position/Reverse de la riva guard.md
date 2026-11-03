@@ -24,7 +24,7 @@ At level 1 (knee on ground) try to put your outside leg under their arm pit for 
 - In the press through put a fist on their throat/lapel, rotate/shrimp away, technical standup
 - If I can grab far side sleeve and collar I can pin the hand to the ground and press them up to sweep.
 - [[Kiss of the Dragon]] (From level 1)
-- Spin through to [[x guard]] (from level 2)
+- Spin through to [[X Guard]] (from level 2)
 - There are a set of unbalancing sweeps from here that can all be summarized by 2 blocking one pushing.  (from level 3)
 
 # Top

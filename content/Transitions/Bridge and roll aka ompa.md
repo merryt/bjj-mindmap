@@ -1,6 +1,6 @@
 ---
 STARTING_POSITION:
-  - "[[Mount]]"
+  - "[[Hobbies/BJJ/Position/Mount]]"
 ---
 I start mount bottom
 

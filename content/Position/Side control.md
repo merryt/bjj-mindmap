@@ -5,12 +5,16 @@ From side control top I can transition to [[Knee on belly]] by popping up like I
 - [[Arm Bar#Far side Arm bar starting from Side control]]
 - [[Arm Bar#Near side arm bar from Side control]]
 - [[Kimura#From side control]]
+- [[Omoplata#From side control]]
 
+If I have a crossface and their arm is between my knee and tricep I can adjust my cross face so instead of using my shoulder I use my chest I can trap their arm. I can then hug their head and have flexibility to move my lower leg and potentially move toward [[Arm Bar]] or [[Triangle Choke]]
  
 ### Cheap submissions
+
+##### [[Bread cutter choke]]
 ##### Far side wrist lock
 - If they frame high with their far side arm into my chest I can start on this move
-- Grab their elbow with my lower arm (closer to their waste)
+- Grab their elbow with my lower arm (closer to their waist)
 - Pull that arm closer to me while pinching their hand with my chin
 ##### Capturing an arm under my leg
 - If they are framing against my hips on the near side I am in business

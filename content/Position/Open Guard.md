@@ -2,7 +2,7 @@
 There are 3 stages to passing an open guard. 
 1. Getting past hips/legs. - The control of open guard is between the bottom players knees. The push/pull of the position is the attacker trying to move their center of gravity past that central postion.
 2. Controlling core - After the legs have been passed and you are in the "j spot" (hip pocket) the next point of interest is the knee elbow connection from the bottom player. 
-3. Chest to chest. - The pass is only complete when chest to chest have been acheived.
+3. Chest to chest. - The pass is only complete when chest to chest have been achieved.
 
 # Top
 [general guard passing principals](https://www.youtube.com/watch?v=RK-XFYTWx34)
@@ -25,7 +25,6 @@ Clearing frames.
 
 - Don't chase the head until you have beaten the hips
 - If you aren't stable for knee on belly anchor by grabbing behind the head.
-
 
 # Bottom
 - Knee elbow connection can buy a lot of time and wear out my opponent
