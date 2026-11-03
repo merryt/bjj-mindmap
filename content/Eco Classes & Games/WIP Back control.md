@@ -1,6 +1,7 @@
-# Games
-### Getting hooks in
-##### Goals/rules
+# Getting hooks in
+### Setup & rules
 - Start from seatbelt (no hooks)
+
+### Goals
 - Front player is trying to get their back to the mat
-- back player is trying to get hooks in
+- Back player is trying to get hooks in

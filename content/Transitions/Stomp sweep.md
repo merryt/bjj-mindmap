@@ -2,7 +2,7 @@
 STARTING_POSITION:
   - "[[Closed Guard]]"
 ENDING_POSITION:
-  - "[[Mount#Top]]"
+  - "[[Hobbies/BJJ/Position/Mount#Top]]"
 ---
 This guard is best done against people who are postured above me and are pressing forward into me.
 

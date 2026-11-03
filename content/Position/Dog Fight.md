@@ -5,7 +5,7 @@ This position is when one person raises up from bottom, but the other person has
 
 This position is similar to [[Coyote Guard]]
 # Bottom
-I find my self in this position a lot from bottom because it is an exit location from [[Half Guard#Bottom]]. 
+I find my self in this position a lot from bottom because an exit location from [[Half Guard#Bottom]]. 
 
 To get there from half guard bottom:
 	- Get an under hook on the side of their body then I have control of with my legs. They will be looking for underhooks because it is essential for them to pass, so this won't be easy. If they get an underhook fake a sweep so they need to post. When they go to post I can try again for the underhook
@@ -31,6 +31,7 @@ Transitions:
 	- Dive my free arm under their body to get a scoop
 	- Make sure I still have my knee torque in place (my nearside leg is capable of grabbign their leg)
 	- Pull my partners weight ontop of me and then push them over to the other side
+	- If this fails I end up in [[Deep Half Guard]], which is still good.
 - Force post to back take
 	- Fake a roll under, and akwardly pull them toward me
 	- This should cause them to post near me with their arm that was the wizzer

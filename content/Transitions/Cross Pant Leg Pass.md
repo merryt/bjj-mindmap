@@ -3,14 +3,14 @@ STARTING_POSITION:
   - "[[Butterfly Guard]]"
   - "[[Open Guard]]"
 ENDING_POSITION:
-  - "[[BJJ/Position/Side control]]"
+  - "[[Side control]]"
   - "[[Knee on belly]]"
 ---
-# [[Open guard]]
+# [[Open Guard]]
 - Get a cross leg pant grip
 - Snap that leg across my body so that I am starting to get next to my partner
 - If they are framing penetrate the frame with a knee, shoulder, or head
-- Get [[Knee on belly]] or [[BJJ/Position/Side control]]
+- Get [[Knee on belly]] or [[Side control]]
 
 
 # [[Butterfly Guard]]
@@ -20,4 +20,4 @@ ENDING_POSITION:
 - Push their bodyover to the side with the grips. 
 - Make sure I am basing with my elbow that is on the collar grip
 - Press their pant leg down to stop their knee from framing
-- Raise up and get [[Knee on belly]] or [[BJJ/Position/Side control]]
+- Raise up and get [[Knee on belly]] or [[Side control]]

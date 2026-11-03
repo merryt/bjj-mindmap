@@ -30,3 +30,8 @@ If I am realizing they are gripping with their thumbs up I can pop their hands u
 # Takedowns
 - [[Single Leg]]
 -  [[Kata guruma]]
+- pulling guard
+	- get pant/sleave grip
+	- put my leg on their hip (same side as the sleeve grip. Otherwise they will grab that leg and score a takedown)
+	- fall to the side of my leg on their hip (farther from my center of gravity is better)
+	- close guard. 

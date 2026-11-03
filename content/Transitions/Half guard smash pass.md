@@ -2,7 +2,7 @@
 STARTING_POSITION:
   - "[[Half Guard]]"
 ENDING_POSITION:
-  - "[[Mount]]"
+  - "[[Hobbies/BJJ/Position/Mount]]"
 ---
 This position starts from [[Half Guard#Top]] and assumes their knee shield is removed and they are flattened. 
 

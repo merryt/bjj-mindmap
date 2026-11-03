@@ -10,7 +10,7 @@ Near side is bottom players leg that is between the top players leg. Far side is
 ##### [Headquarters passing simplified](https://www.youtube.com/watch?v=quM3u9Jxthg)  (when leg is pinned to the ground)
 - Keep their far side leg pinned to ground with my far side shin
 - Put hands on the ground above partners head. 
-- Pummel a leg back to hook around an ankle and pull it down. Slide into [[Mount]].
+- Pummel a leg back to hook around an ankle and pull it down. Slide into [[Hobbies/BJJ/Position/Mount]].
 - If their contained knee/hips are facing:
 	- Near side: (knee cut) start with a far side underhook and then drop my far side knee to the near side pinning their near side knee to the ground. 
 	- Far side: (side smash) get a near side underhook. Pass my near side knee under their leg and to the far side ground. (keep it close to their hips)
